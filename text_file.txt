@@ -1,0 +1,9 @@
+A Gestão de Riscos pode ser entendida como a administração da incerteza, de forma a minimizá-la a um nível aceitável*. No contexto empresarial envolve identificar, avaliar, analisar, tratar, comunicar e controlar adequadamente os riscos de forma a proteger o valor dos ativos organizacionais.
+
+* Por aceitável entende-se: o grau de risco que a organização está disposta a correr no momento de planejar e executar suas atividades.
+
+Além de estar presente como área de conhecimento em Gestão de Projetos e fazer parte dos processos de Governança de TI segundo o COBIT, dentro da área de Tecnologia da Informação, o tema merece destaque no contexto de Segurança da Informação, existindo inclusive uma norma específica denominada NBR ISO/IEC 27005: Técnicas de segurança – Gestão de riscos de segurança da informação.
+
+A ISO 27005 é o conjunto de práticas mais referenciado quando se trata de riscos em Tecnologia da Informação. A norma descreve processo necessário para a gestão de riscos de segurança da informação e as atividades necessárias para a perfeita execução do sistema de Gestão voltado a esta finalidade.  
+
+O risco em segurança da informação é muitas vezes expresso em termos de uma combinação de consequências de um evento (incluindo mudanças nas circunstâncias) e a probabilidade associada de ocorrência. 
